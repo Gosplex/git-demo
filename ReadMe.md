@@ -6,7 +6,7 @@
 3. Installation of git, git bash and git cmd in windows
    (https://git-scm.com/downloads)
 4. Adding git to environment variable
-   ()
+   (https://stackoverflow.com/questions/26620312/git-installing-git-in-path-with-github-client-for-windows)
 
 ## Setting up github with local machine
 
@@ -23,4 +23,4 @@
 4. Some git commands
 5. Creating, adding, commit and pushing of new files to github
 
-()
+(https://youtu.be/RGOj5yH7evk)
