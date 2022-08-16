@@ -71,4 +71,4 @@
 
 
 
-# As said by the good Man - the hardest thing to do is to keep pushing no matter the odds
+As said by the good Man - the hardest thing to do is to keep pushing no matter the odds
