@@ -24,3 +24,19 @@
 5. Creating, adding, commit and pushing of new files to github
 
 (https://youtu.be/RGOj5yH7evk)
+
+## Some Git Commands and what they do
+1. git init - Initiatilizes the git so as to push it to a repository
+2. git add <fileName> -  is used to update changes in a partcular file
+3. git add (.)period - is used to update the entire project
+4. git status - its used to check the current status of the project
+5. git commit -m - its used to the changes and add a message 
+6. git push origin <bracheName> -  its used to push the project to the remote repository in github
+7. git clone - its used to clone a repository from git hub to a local machine
+8. git checkout - its used to check the current brach you are in
+9. git checkout -b <brachName> -  its used to create a new brach in a repo
+9. cd - change from the current directory
+10. mkdir -  make a new diretory in the current parent folder  
+
+
+## Git branching 
