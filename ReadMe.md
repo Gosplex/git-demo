@@ -33,8 +33,8 @@
 5. git commit -m - its used to the changes and add a message 
 6. git push origin <bracheName> -  its used to push the project to the remote repository in github
 7. git clone - its used to clone a repository from git hub to a local machine
-8. git checkout - its used to check the current brach you are in
-9. git checkout -b <brachName> -  its used to create a new brach in a repo
+8. git checkout <branchName> - its used to switch the current brach you are in
+9. git branch <brachName> -  its used to create a new brach in a repo
 9. cd - change from the current directory
 10. mkdir -  make a new diretory in the current parent folder  
 
